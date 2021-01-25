@@ -1,1 +1,25 @@
-body{background:rgba(187,139,66,.502)}h1{font-size:4rem;color:#fff;text-align:center}p{font-size:3rem}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgba(187, 139, 66, 0.502);
+}
+
+h1 {
+  font-size: white;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-size: 3rem;
+}
+
+h2 {
+  color: blue;
+  font-size: 4rem;
+  text-align: center;
+}
